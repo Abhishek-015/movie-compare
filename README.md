@@ -1,6 +1,6 @@
 # Movie Fight
 
-***Compare any two movies of your choice,dont confuse about which one is best,we are here to provide that comparision\
+***Compare any two movies of your choice,dont confuse about which one is best,we are here to provide that comparision***
 
 This online movie comparison app will let you compare the movies by types of movies, rating, awards and more.
 
