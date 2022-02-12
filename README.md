@@ -1,5 +1,7 @@
 # Movie Fight
-***Can't decide between films? Compare them and pick a movie to watch!***\
+
+***Compare any two movies of your choice,dont confuse about which one is best,we are here to provide that comparision\
+
 This online movie comparison app will let you compare the movies by types of movies, rating, awards and more.
 
 ## Sample Project
@@ -14,15 +16,16 @@ This online movie comparison app will let you compare the movies by types of mov
 
 
 ## Features
-- When user type a movie, suggestions will appear from which movie can be picked easily.
-- Blue color will reflect on more weightage and yellow for other.
+
+- Two Search bar to find movie that includes closure functionality.
+- Get all the detaild about that particular movie.
+- Show the comparision in yellow and green color background.
 
 
-## Check it out
-This project has been deployed online - https://movie-fight-app12.netlify.app/
 
 ## Contact
+
 Feel free to reach me ->
-- Email - <nehaprajapati1150@gmail.com> 
-- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
-- Twitter - https://twitter.com/NehaPra03810819
+- Email - <abhishek404singh@gmail.com> 
+- LinkedIn - https://www.linkedin.com/in/abhishek-singh-096211216/
+- Twitter - https://twitter.com/rvabhisingh
