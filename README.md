@@ -1,6 +1,6 @@
 # Movie Fight
 
-***Compare any two movies of your choice,dont confuse about which one is best,we are here to provide that comparision\
+***Compare any two movies of your choice,dont confuse about which one is best,we are here to provide that comparision***
 
 This online movie comparison app will let you compare the movies by types of movies, rating, awards and more.
 
@@ -17,6 +17,9 @@ This online movie comparison app will let you compare the movies by types of mov
 ## Get the comparision
 ![movie](https://user-images.githubusercontent.com/87421798/152989807-327c3181-55b7-47e0-a286-0fcc317dc662.png)
 
+## Check it out
+
+Deployed link : https://movie-compare-v1.netlify.app/
 
 ## Technologies and tools used
 - HTML
