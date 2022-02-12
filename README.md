@@ -21,7 +21,9 @@ This online movie comparison app will let you compare the movies by types of mov
 
 Deployed link : https://movie-compare-v1.netlify.app/
 
-## Technologies and tools used
+
+
+## TECH stack
 - HTML
 - JavaScript
 - CSS
