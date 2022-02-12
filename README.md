@@ -33,6 +33,7 @@ Deployed link : https://movie-compare-v1.netlify.app/
 - Two Search bar to find movie that includes closure functionality.
 - Get all the detaild about that particular movie.
 - Show the comparision in yellow and green color background.
+- green color feature is superior to yellow one
 
 
 
